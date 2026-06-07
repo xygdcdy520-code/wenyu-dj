@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.wenyu-dj.com/sitemap.xml
+Sitemap: https://xygdcdy520-code.github.io/wenyu-dj/sitemap.xml
